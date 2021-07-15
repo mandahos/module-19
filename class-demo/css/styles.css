@@ -1,0 +1,15 @@
+.word-guess__hiddenWord--char {
+  cursor: pointer;
+  transition: all 0.2s;
+  opacity: 0.5;
+}
+
+.word-guess__hiddenWord--char:hover {
+  opacity: 1;
+}
+
+#clock-display {
+  color: #3110ee;
+  font-size: 18px;
+  text-align: center;
+}
